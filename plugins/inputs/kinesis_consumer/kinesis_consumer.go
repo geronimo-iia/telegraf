@@ -19,8 +19,8 @@ import (
 	"github.com/aws/aws-sdk-go-v2/service/dynamodb"
 	"github.com/aws/aws-sdk-go-v2/service/kinesis"
 	"github.com/aws/smithy-go/logging"
-	consumer "github.com/harlow/kinesis-consumer"
-	"github.com/harlow/kinesis-consumer/store/ddb"
+	consumer "github.com/a/alexgridx-consumer"
+	"github.com/alexgridx/kinesis-consumer/store/ddb"
 
 	"github.com/influxdata/telegraf"
 	"github.com/influxdata/telegraf/internal"
