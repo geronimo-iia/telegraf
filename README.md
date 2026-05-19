@@ -1,5 +1,8 @@
 # ![tiger](assets/TelegrafTigerSmall.png "tiger") Telegraf
 
+> **⚠️ This repository is archived and no longer maintained.**
+> No further development, bug fixes, or security updates will be provided.
+
 [![GoDoc](https://img.shields.io/badge/doc-reference-00ADD8.svg?logo=go)](https://godoc.org/github.com/influxdata/telegraf)
 [![Docker pulls](https://img.shields.io/docker/pulls/library/telegraf.svg)](https://hub.docker.com/_/telegraf/)
 [![Go Report Card](https://goreportcard.com/badge/github.com/influxdata/telegraf)](https://goreportcard.com/report/github.com/influxdata/telegraf)
